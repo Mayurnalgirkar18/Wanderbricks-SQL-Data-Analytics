@@ -12,7 +12,7 @@ Using SQL queries across a relational dataset containing 9 tables, this project 
 
 The analysis focuses on answering real-world business questions through SQL techniques, aggregations, joins, subqueries, and analytical functions.
 
-## 2. Business Objectives
+## 2. Business Objectives.
 
 The primary objectives of this project are:
 
